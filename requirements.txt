@@ -1,0 +1,10 @@
+pandas
+numpy==1.19.0
+scipy
+matplotlib
+jupyterlab
+tensorflow
+keras
+torch
+gensim
+chazutsu
