@@ -154,3 +154,5 @@ dmypy.json
 # myenv
 .vscode
 *.pdf
+src/data/*
+src/keras_model/*
