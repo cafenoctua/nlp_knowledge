@@ -156,3 +156,8 @@ dmypy.json
 *.pdf
 src/data/*
 src/keras_model/*
+jumanpp*
+knp*
+pyknp*
+ldcc*
+*.model
