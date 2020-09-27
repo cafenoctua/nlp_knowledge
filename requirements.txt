@@ -11,3 +11,4 @@ chazutsu
 nltk
 scikit-plot
 xgboost
+nltk

@@ -81,3 +81,4 @@ LSTMと対比されるGRUと呼ばれるレイヤーあるためまたこれも�
 
 # Ref
 - [Attention Seq2Seqで対話モデルを実装してみた](http://www.ie110704.net/2017/08/21/attention-seq2seq%E3%81%A7%E5%AF%BE%E8%A9%B1%E3%83%A2%E3%83%87%E3%83%AB%E3%82%92%E5%AE%9F%E8%A3%85%E3%81%97%E3%81%A6%E3%81%BF%E3%81%9F/)
+- [A ten-minute introduction to sequence-to-sequence learning in Keras](https://blog.keras.io/a-ten-minute-introduction-to-sequence-to-sequence-learning-in-keras.html)

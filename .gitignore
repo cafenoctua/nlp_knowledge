@@ -161,3 +161,6 @@ knp*
 pyknp*
 ldcc*
 *.model
+*.h5
+handson-ml2*
+engjp_translation/data/*
