@@ -164,3 +164,4 @@ ldcc*
 *.h5
 handson-ml2*
 engjp_translation/data/*
+word_distribution/data/*
