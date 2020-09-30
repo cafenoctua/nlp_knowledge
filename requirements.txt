@@ -12,3 +12,4 @@ nltk
 scikit-plot
 xgboost
 nltk
+beautifulsoup4
