@@ -13,3 +13,5 @@ scikit-plot
 xgboost
 nltk
 beautifulsoup4
+seqeval
+transformers

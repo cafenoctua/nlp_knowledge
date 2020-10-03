@@ -166,3 +166,4 @@ handson-ml2*
 engjp_translation/data/*
 word_distribution/data/*
 text_clf/data/*
+seq_labeling/models/*
